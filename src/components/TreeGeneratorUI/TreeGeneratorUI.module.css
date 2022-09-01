@@ -1,0 +1,13 @@
+.treeGeneratorUI {
+    display: flex;
+}
+
+.treeGeneratorOptionsSidebar {
+    width: 300px;
+    background-color: #eee;
+    flex-shrink: 0;
+}
+
+.treeCanvas {
+
+}
